@@ -2,6 +2,4 @@
  3D Display with VLC
 #####################
 
-.. todo::
-
-   hello there: https://wiki.videolan.org/3D/
+3D display is a process of projecting the depth perception of a media file using different methods. 

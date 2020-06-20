@@ -1,5 +1,5 @@
 ##########################################
- How to inject metadata into a 360⁰ video
+ How to Inject metadata into a 360⁰ video
 ##########################################
 
 .. todo::
