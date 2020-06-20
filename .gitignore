@@ -1,0 +1,6 @@
+_build
+.vscode/
+.DS_Store
+*.patch
+.venv
+*.mo
