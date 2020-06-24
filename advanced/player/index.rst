@@ -10,3 +10,4 @@
    disks_from_image_file.rst
    play_multiple_instances.rst
    vlc_as_default_player.rst
+   360_video.rst
