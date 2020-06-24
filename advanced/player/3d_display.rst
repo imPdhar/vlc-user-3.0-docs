@@ -16,3 +16,33 @@ Out of these, VLC 3.0 supports **Side-by-Side Anaglyph** Videos.
 Anaglyph Videos 
 ****************
 
+1. Select :guilabel:`Tools` Menu and choose :guilabel:`Effects and Filters` from the drop-down list. 
+
+.. figure::  /images/advanced/player/3d_display_step0.jpg
+   :align: center
+
+2. Look for the :guilabel:`Video Effects` menu and select it.
+
+.. figure:: /images/advanced/player/3d_display_step1.jpg 
+   :align: center 
+
+3. Choose the :guilabel:`Advanced` from the available options.
+
+.. figure:: /images/advanced/player/3d_display_step2.jpg 
+   :align: center
+
+4. Look for :guilabel:`Anaglyph 3D` and enable it. Exit by choosing the :guilabel:`Save` button. 
+
+.. figure:: /images/advanced/player/3d_display_step3.jpg 
+   :align: center
+
+*****************
+Advanced Options
+*****************
+
+1. Select :guilabel:`Tools` Menu and choose :guilabel:`Preferences` from the drop-down list. 
+
+.. figure::  /images/advanced/player/3d_display_adv1.jpg
+   :align: center
+
+2. Choose :guilabel:`Interface` and look for **Show settings** 
